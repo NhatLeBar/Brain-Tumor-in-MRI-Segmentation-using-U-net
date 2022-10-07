@@ -1,4 +1,5 @@
 # Brain-Tumor-in-MRI-Segmentation-using-U-NET
+ This project is conducted using the framework from Mr. madsen Dennis, whose github can be found through this link: https://github.com/madsendennis/notebooks/tree/master/volume_segmentation_with_unet 
  This is a project for tumor segmentation in 2D MRI brain scans using a convolutional neural network with U-NET architecture.
  In this document, one can find the instructions on how to operate modules used in this model.
  
